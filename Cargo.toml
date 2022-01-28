@@ -466,6 +466,10 @@ name = "button"
 path = "examples/ui/button.rs"
 
 [[example]]
+name = "button_with_sprite_sheet"
+path = "examples/ui/button_with_sprite_sheet.rs"
+
+[[example]]
 name = "font_atlas_debug"
 path = "examples/ui/font_atlas_debug.rs"
 
